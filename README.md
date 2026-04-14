@@ -1,4 +1,4 @@
-# ecommerce-frontend
+
 # E-Commerce Frontend Website
 
 A modern and responsive e-commerce website built using HTML, Tailwind CSS, and JavaScript. This project focuses on creating a clean UI and interactive shopping experience without a backend.
@@ -24,15 +24,7 @@ A modern and responsive e-commerce website built using HTML, Tailwind CSS, and J
 
 ---
 
-## Screenshots
 
-(Add your screenshots here)
-
----
-
-## Live Demo
-
-(Add your deployed link here)
 
 ---
 
